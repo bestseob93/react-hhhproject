@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class PortfoDetail extends Components {
+class PortfoDetail extends Component {
   render() {
     return (
       <div>PortfoDetail</div>

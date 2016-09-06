@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Authentication extends Components {
+class Authentication extends Component {
   render() {
     return (
       <div>Authentication</div>

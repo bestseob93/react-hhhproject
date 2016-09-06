@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class PortfoList extends Components {
+class PortfoList extends Component {
   render() {
     return (
       <div>PortfoList</div>

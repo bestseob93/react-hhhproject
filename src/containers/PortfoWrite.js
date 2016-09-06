@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class PortfoWrite extends Components {
+class PortfoWrite extends Component {
   render() {
     return (
       <div>PortfoWrite</div>

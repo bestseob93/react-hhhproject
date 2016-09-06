@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 
-class Header extends Components {
+class Search extends Component {
   render() {
     return (
-      <div>Header</div>
+
     );
   }
 }
 
-export default Header;
+export default Search;
